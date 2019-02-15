@@ -1,0 +1,57 @@
+[04:21:12] [main/ERROR]: Unknown biome, defaulting to plains
+[04:21:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[04:21:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:21:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:21:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:21:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:21:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:21:50] [main/INFO]: Reloading ResourceManager: Default
+[04:21:52] [Worker-Main-4/INFO]: Loaded 6 recipes
+[04:21:53] [Worker-Main-4/INFO]: Loaded 918 advancements
+[04:21:55] [Server thread/INFO]: Starting minecraft server version 20w22a
+[04:21:55] [Server thread/INFO]: Loading properties
+[04:21:55] [Server thread/INFO]: Default game type: SURVIVAL
+[04:21:55] [Server thread/INFO]: Generating keypair
+[04:21:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:21:56] [Server thread/INFO]: Using default channel type
+[04:21:57] [Server thread/INFO]: Preparing level "world"
+[04:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:07] [Server thread/INFO]: Time elapsed: 8829 ms
+[04:22:07] [Server thread/INFO]: Done (10.236s)! For help, type "help"
+[04:22:07] [Server thread/INFO]: Starting remote control listener
+[04:22:07] [Server thread/INFO]: Thread RCON Listener started
+[04:22:07] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[05:37:07] [Server thread/ERROR]: Failed to save level ./world
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_212]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_212]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_212]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_212]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_212]
+	at lo.a(SourceFile:31) ~[server.jar:?]
+	at czm$a.a(SourceFile:321) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:562) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:818) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:658) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[05:42:07] [Server thread/ERROR]: Failed to save level ./world
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_212]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) 
