@@ -1,57 +1,28 @@
-[21:00:26] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[21:00:26] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[21:00:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:00:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:00:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:00:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:00:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:00:27] [Server thread/INFO]: Starting minecraft server version 20w11a
-[21:00:27] [Server thread/INFO]: Loading properties
-[21:00:27] [Server thread/INFO]: Default game type: SURVIVAL
-[21:00:27] [Server thread/INFO]: Generating keypair
-[21:00:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:00:27] [Server thread/INFO]: Using default channel type
-[21:00:27] [Server thread/INFO]: Preparing level "world"
-[21:00:28] [Server thread/INFO]: Reloading ResourceManager: Default
-[21:00:29] [Server thread/INFO]: Loaded 6 recipes
-[21:00:29] [Server thread/INFO]: Loaded 858 advancements
-[21:00:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:00:30] [User Authenticator #1/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
-[21:00:31] [Server thread/INFO]: Preparing spawn area: 0%
-[21:00:31] [Server thread/INFO]: Preparing spawn area: 0%
-[21:00:31] [User Authenticator #2/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
-[21:00:36] [Worker-4/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-3/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-7/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-4/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-1/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-7/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-2/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-4/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-1/INFO]: Preparing spawn area: 0%
-[21:00:36] [Worker-7/INFO]: Preparing spawn area: 0%
-[21:00:36] [Server thread/INFO]: Preparing spawn area: 83%
-[21:00:36] [Server thread/INFO]: Time elapsed: 6030 ms
-[21:00:36] [Server thread/INFO]: Done (8.725s)! For help, type "help"
-[21:00:36] [Server thread/INFO]: Starting remote control listener
-[21:00:36] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[21:00:36] [Server thread/INFO]: Cados_Barbados[/47.41.134.175:65328] logged in with entity id 31 at (-841.0670492413708, 67.75723894215243, -533.1335011285896)
-[21:00:36] [Server thread/INFO]: Cados_Barbados joined the game
-[21:00:36] [Server thread/INFO]: Cados_Barbados lost connection: You logged in from another location
-[21:00:36] [Server thread/INFO]: Cados_Barbados left the game
-[21:00:36] [Server thread/INFO]: Cados_Barbados[/47.41.134.175:65325] logged in with entity id 41 at (-841.0670492413708, 67.75723894215243, -533.1335011285896)
-[21:00:36] [Server thread/INFO]: Cados_Barbados joined the game
-[21:02:14] [User Authenticator #3/INFO]: UUID of player MrsLemonDrop is 61ad6271-6208-436c-a282-108d9a8f287f
-[21:02:14] [Server thread/INFO]: MrsLemonDrop[/192.168.1.1:57190] logged in with entity id 637 at (-493.5, 66.6875, -211.5)
-[21:02:14] [Server thread/INFO]: MrsLemonDrop joined the game
-[21:04:07] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
-[21:04:07] [Server thread/INFO]: Cados_Barbados left the game
-[21:04:10] [User Authenticator #4/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
-[21:04:10] [Server thread/INFO]: Cados_Barbados[/47.41.134.175:65344] logged in with entity id 1277 at (-841.0670492413708, 67.75723894215243, -533.1335011285896)
-[21:04:10] [Server thread/INFO]: Cados_Barbados joined the game
-[21:04:30] [User Authenticator #5/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
-[21:04:30] [Server thread/INFO]: townskiller[/172.124.227.187:59307] logged in with entity id 1720 at (-870.5296346032715, 67.0, -555.163849059579)
-[21:04:30] [Server thread/INFO]: townskiller joined the game
-[21:05:38] [Server thread/INFO]: Villager bav['Villager'/1533, l='world', x=-902.66, y=69.78, z=-655.30] died, message: 'Villager was slain by Zombie'
-[21:07:21] [Server thread/INFO]: Villager bav['Villager'/1585, l='world', x=-940.68, y=69.56, z=-719.73] died, message: 'Villager was slain by Husk'
-[21:07:38] [Server thread/INFO]: Villager bav['Villager'/1515, l='world', x=-959.37, y=70.81, z=-768.90] died, message: 'Villager tried to swim in lava to escape Husk'
+[00:00:56] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/61863, l='world', x=-463.13, y=11.04, z=-266.25]
+[00:01:37] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/62152, l='world', x=-466.18, y=9.00, z=-267.18]
+[00:08:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Granite'/64862, l='world', x=-460.36, y=11.00, z=-262.94]
+[00:13:45] [Server thread/INFO]: ButtcrackMcGrath was slain by Zombie
+[00:20:48] [Server thread/INFO]: ButtcrackMcGrath was shot by Skeleton
+[00:21:08] [Server thread/INFO]: ButtcrackMcGrath was shot by Skeleton
+[00:21:39] [Server thread/INFO]: [Topherade: Set the time to 1000]
+[00:35:11] [Server thread/INFO]: MrsLemonDrop lost connection: Disconnected
+[00:35:11] [Server thread/INFO]: MrsLemonDrop left the game
+[00:58:56] [Server thread/INFO]: ButtcrackMcGrath lost connection: You have been idle for too long!
+[00:58:56] [Server thread/INFO]: ButtcrackMcGrath left the game
+[00:59:23] [Server thread/INFO]: townskiller lost connection: Disconnected
+[00:59:23] [Server thread/INFO]: townskiller left the game
+[00:59:39] [Server thread/INFO]: Topherade lost connection: Disconnected
+[00:59:39] [Server thread/INFO]: Topherade left the game
+[00:59:45] [Server thread/INFO]: Stopping the server
+[00:59:45] [Server thread/INFO]: Stopping server
+[00:59:45] [Server thread/INFO]: Saving players
+[00:59:45] [Server thread/INFO]: Saving worlds
+[00:59:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
