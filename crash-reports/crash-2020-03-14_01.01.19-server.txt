@@ -1,0 +1,34 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 14/03/20 01:01
+Description: Exception in server tick loop
+
+java.lang.RuntimeException: Failed to check session lock, aborting
+	at cwb.h(SourceFile:95)
+	at cwb.<init>(SourceFile:51)
+	at cwd.a(SourceFile:113)
+	at cwd.a(SourceFile:109)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:366)
+	at xg.d(SourceFile:217)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:633)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 20w11a
+	Minecraft Version ID: 20w11a
+	Operating System: Linux (arm) version 4.19.97-v7l+
+	Java Version: 1.8.0_212, Oracle Corporation
+	Java VM Version: OpenJDK Client VM (mixed mode), Oracle Corporation
+	Memory: 296413784 bytes (282 MB) / 519110656 bytes (495 MB) up to 1520435200 bytes (1450 MB)
+	CPUs: 4
+	JVM Flags: 3 total; -Xmx1500M -Xms512M -XX:+UseG1GC
+	Player Count: 0 / 20; []
+	Data Packs: 
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
