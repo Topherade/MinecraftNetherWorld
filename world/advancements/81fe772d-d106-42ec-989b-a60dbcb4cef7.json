@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-03-16 21:11:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-03-09 22:15:11 -0400"
@@ -1016,14 +1022,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-03-16 20:56:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-03-13 22:42:20 -0400",
       "minecraft:skeleton": "2020-03-09 21:03:24 -0400",
+      "minecraft:ravager": "2020-03-16 20:55:15 -0400",
+      "minecraft:vindicator": "2020-03-16 20:47:12 -0400",
       "minecraft:spider": "2020-03-09 21:22:24 -0400",
       "minecraft:creeper": "2020-03-09 21:01:07 -0400",
+      "minecraft:evoker": "2020-03-16 21:03:59 -0400",
       "minecraft:phantom": "2020-03-11 22:24:02 -0400",
       "minecraft:zombified_piglin": "2020-03-10 20:58:30 -0400",
+      "minecraft:witch": "2020-03-16 20:56:19 -0400",
       "minecraft:enderman": "2020-03-09 22:02:36 -0400",
       "minecraft:zombie": "2020-03-09 21:21:40 -0400",
       "minecraft:drowned": "2020-03-11 22:32:30 -0400"
@@ -1129,6 +1145,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2020-03-09 21:04:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-03-16 20:49:43 -0400"
     },
     "done": true
   },
@@ -1582,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-03-16 20:56:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-03-10 20:54:42 -0400"
@@ -1972,6 +2000,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-09 20:55:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-16 21:02:50 -0400"
     },
     "done": true
   },

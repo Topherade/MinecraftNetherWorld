@@ -1,341 +1,206 @@
-[04:15:37] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[04:15:37] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[04:15:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:15:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:15:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:15:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:15:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:15:41] [Server thread/INFO]: Starting minecraft server version 20w11a
-[04:15:41] [Server thread/INFO]: Loading properties
-[04:15:41] [Server thread/INFO]: Default game type: SURVIVAL
-[04:15:41] [Server thread/INFO]: Generating keypair
-[04:15:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:15:41] [Server thread/INFO]: Using default channel type
-[04:15:42] [Server thread/INFO]: Preparing level "world"
-[04:15:42] [Server thread/INFO]: Reloading ResourceManager: Default
-[04:15:47] [Server thread/INFO]: Loaded 6 recipes
-[04:15:59] [Server thread/INFO]: Loaded 858 advancements
-[04:16:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:16:13] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:08] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-2/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-3/INFO]: Preparing spawn area: 0%
-[04:18:09] [Worker-1/INFO]: Preparing spawn area: 0%
-[04:18:09] [Server thread/INFO]: Preparing spawn area: 3%
-[04:18:09] [Server thread/INFO]: Time elapsed: 120440 ms
-[04:18:09] [Server thread/INFO]: Done (137.090s)! For help, type "help"
-[04:18:09] [Server thread/INFO]: Starting remote control listener
-[04:18:09] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[19:47:17] [User Authenticator #1/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
-[19:47:18] [Server thread/INFO]: Cados_Barbados[/47.41.134.175:53505] logged in with entity id 31 at (-490.1228207257085, 64.0, -229.37486970529432)
-[19:47:18] [Server thread/INFO]: Cados_Barbados joined the game
-[19:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[19:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11068ms or 221 ticks behind
-[19:48:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
-[19:48:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
-[19:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
-[19:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12749ms or 254 ticks behind
-[19:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8232ms or 164 ticks behind
-[19:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9996ms or 199 ticks behind
-[19:50:33] [Server thread/INFO]: <Cados_Barbados> hello?
-[19:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7481ms or 149 ticks behind
-[19:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9874ms or 197 ticks behind
-[19:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6753ms or 135 ticks behind
-[19:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10440ms or 208 ticks behind
-[19:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8776ms or 175 ticks behind
-[19:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10937ms or 218 ticks behind
-[19:53:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11803ms or 236 ticks behind
-[19:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
-[19:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9684ms or 193 ticks behind
-[19:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6265ms or 125 ticks behind
-[19:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8471ms or 169 ticks behind
-[19:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11464ms or 229 ticks behind
-[19:55:04] [User Authenticator #2/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
-[19:55:05] [Server thread/INFO]: townskiller[/172.124.227.187:54562] logged in with entity id 1386 at (-503.161964022863, 66.0, -210.34475280485984)
-[19:55:05] [Server thread/INFO]: townskiller joined the game
-[19:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20337ms or 406 ticks behind
-[19:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22820ms or 456 ticks behind
-[19:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19884ms or 397 ticks behind
-[19:57:22] [Server thread/WARN]: Cados_Barbados moved too quickly! -9.280155887133844,1.0,-3.641040098268718
-[19:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28633ms or 572 ticks behind
-[19:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17898ms or 357 ticks behind
-[19:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11079ms or 221 ticks behind
-[19:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11322ms or 226 ticks behind
-[19:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10485ms or 209 ticks behind
-[19:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19914ms or 398 ticks behind
-[20:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12471ms or 249 ticks behind
-[20:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12797ms or 255 ticks behind
-[20:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22343ms or 446 ticks behind
-[20:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18515ms or 370 ticks behind
-[20:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17855ms or 357 ticks behind
-[20:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30571ms or 611 ticks behind
-[20:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36110ms or 722 ticks behind
-[20:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27600ms or 552 ticks behind
-[20:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28437ms or 568 ticks behind
-[20:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27450ms or 549 ticks behind
-[20:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25790ms or 515 ticks behind
-[20:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29899ms or 597 ticks behind
-[20:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25859ms or 517 ticks behind
-[20:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23319ms or 466 ticks behind
-[20:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22988ms or 459 ticks behind
-[20:10:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22633ms or 452 ticks behind
-[20:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25604ms or 512 ticks behind
-[20:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26279ms or 525 ticks behind
-[20:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25491ms or 509 ticks behind
-[20:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19821ms or 396 ticks behind
-[20:13:15] [Server thread/WARN]: Fetching packet for removed entity ayo['Egg'/3951, l='world', x=-472.51, y=65.06, z=-223.80]
-[20:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20333ms or 406 ticks behind
-[20:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25840ms or 516 ticks behind
-[20:14:28] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
-[20:14:28] [Server thread/INFO]: Cados_Barbados left the game
-[20:14:37] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
-[20:14:37] [Server thread/INFO]: [Rcon: Stopping the server]
-[20:14:37] [Server thread/INFO]: Stopping server
-[20:14:37] [Server thread/INFO]: Saving players
-[20:14:38] [Server thread/INFO]: townskiller lost connection: Server closed
-[20:14:38] [Server thread/INFO]: townskiller left the game
-[20:14:38] [Server thread/INFO]: Saving worlds
-[20:14:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:14:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:14:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:17:49] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[20:17:49] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[20:17:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:17:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:17:50] [Server thread/INFO]: Starting minecraft server version 20w11a
+[20:17:50] [Server thread/INFO]: Loading properties
+[20:17:50] [Server thread/INFO]: Default game type: SURVIVAL
+[20:17:50] [Server thread/INFO]: Generating keypair
+[20:17:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:17:50] [Server thread/INFO]: Using default channel type
+[20:17:50] [Server thread/INFO]: Preparing level "world"
+[20:17:51] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:17:51] [Server thread/INFO]: Loaded 6 recipes
+[20:17:52] [Server thread/INFO]: Loaded 858 advancements
+[20:17:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:17:53] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:53] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:53] [Server thread/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-2/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-6/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-7/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-4/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-6/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-7/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-6/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-4/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-4/INFO]: Preparing spawn area: 0%
+[20:17:58] [Worker-2/INFO]: Preparing spawn area: 0%
+[20:17:59] [Server thread/INFO]: Time elapsed: 6293 ms
+[20:17:59] [Server thread/INFO]: Done (8.092s)! For help, type "help"
+[20:17:59] [Server thread/INFO]: Starting remote control listener
+[20:17:59] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[20:17:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:17:59] [Server thread/INFO]: <--[HERE]
+[20:18:12] [User Authenticator #1/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
+[20:18:12] [User Authenticator #2/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
+[20:18:12] [Server thread/INFO]: townskiller[/172.124.227.187:54739] logged in with entity id 31 at (-610.9028029916286, 67.0, -261.43581615662765)
+[20:18:12] [Server thread/INFO]: townskiller joined the game
+[20:18:12] [Server thread/INFO]: Cados_Barbados[/47.41.134.175:53635] logged in with entity id 32 at (-528.4108936319703, 66.0, -107.63507917267759)
+[20:18:12] [Server thread/INFO]: Cados_Barbados joined the game
+[20:18:13] [User Authenticator #3/INFO]: UUID of player Topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[20:18:13] [Server thread/INFO]: Topherade[/192.168.1.1:54132] logged in with entity id 131 at (-497.5046004434844, 70.0, -208.63869966731372)
+[20:18:13] [Server thread/INFO]: Topherade joined the game
+[20:36:59] [Server thread/INFO]: Villager bav['Villager'/266, l='world', x=-543.30, y=82.00, z=-175.99] died, message: 'Villager hit the ground too hard whilst trying to escape Pillager'
+[20:37:18] [Server thread/INFO]: Villager bav['Villager'/189, l='world', x=-569.38, y=87.00, z=-189.63] died, message: 'Villager was shot by Pillager'
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4583123413586918
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4449132442755399
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4314280617006716
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.41791823193079836
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4044013454058586
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3908949250991327
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.37740486408904417
+[20:37:49] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.36391280556676975
+[20:37:50] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.35044092777332025
+[20:37:50] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3354927471627889
+[20:37:50] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3143236100750073
+[20:37:50] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.28075343120895013
+[20:37:51] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3170637987251439
+[20:37:52] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.29175467475818095
+[20:37:52] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2648713840793562
+[20:37:52] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4479182518601874
+[20:37:53] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4219081638885882
+[20:39:24] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.28187855617349555
+[20:39:38] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3344666823921898
+[20:39:38] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3209730843589682
+[20:39:38] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.30746529560610725
+[20:39:44] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.4895538598845519
+[20:39:44] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.0002394581373721
+[20:40:03] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3253834568754428
+[20:40:03] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2982108796304601
+[20:40:03] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2711398728365566
+[20:40:04] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.34243378363021293
+[20:40:04] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.31756979775832406
+[20:40:04] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2915710424113058
+[20:40:04] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2719502916139618
+[20:40:04] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.25506171549659484
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.45736250021150227
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4385466593388401
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.419918427585003
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.40134391032427175
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3827847720962154
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.36948185570281566
+[20:40:05] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.35622416705086835
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3425407437918011
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.32881781016442346
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3150835642967422
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.30102917098110993
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2863602389824109
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.27117804905196863
+[20:40:06] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.25600143750216375
+[20:40:08] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.3315855005116646
+[20:40:08] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.8335617521504446
+[20:40:34] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.39225048994387635
+[20:40:34] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.37987973567919653
+[20:40:34] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3639420208546653
+[20:40:34] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3462646413566972
+[20:40:34] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3285064155473947
+[20:40:35] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2637459655780958
+[20:40:35] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.26201521806979144
+[20:40:35] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.25090801901842497
+[20:40:36] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4600949352666248
+[20:40:37] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4466750409242195
+[20:40:37] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4333111458637404
+[20:40:37] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.41985560510113373
+[20:40:37] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4062750671567983
+[20:40:37] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3925732187884705
+[20:40:37] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3788582465813306
+[20:41:48] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.2791638711660198
+[20:41:49] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.7689088977679148
+[20:41:50] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.30985542089774754
+[20:42:03] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2601198063885022
+[20:42:28] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.3422803996278958
+[20:42:28] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.8509312011593408
+[20:43:53] [Server thread/INFO]: Cados_Barbados has made the advancement [Voluntary Exile]
+[20:46:20] [Server thread/INFO]: Villager bav['Farmer'/208, l='world', x=-502.08, y=66.00, z=-206.91] died, message: 'Farmer was slain by Cados_Barbados'
+[20:46:45] [Server thread/INFO]: Cados_Barbados was slain by Iron Golem
+[20:48:43] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.32891266606068825
+[20:49:22] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.33037746434786186
+[20:49:26] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.27903382879321725
+[20:49:43] [Server thread/INFO]: townskiller has made the advancement [Voluntary Exile]
+[20:50:48] [Server thread/INFO]: Topherade has made the advancement [Voluntary Exile]
+[20:51:56] [Server thread/WARN]: Topherade was kicked for floating too long!
+[20:51:56] [Server thread/INFO]: Topherade lost connection: Disconnected
+[20:51:56] [Server thread/INFO]: Topherade left the game
+[20:51:56] [Server thread/WARN]: handleDisconnection() called twice
+[20:52:00] [User Authenticator #4/INFO]: UUID of player Topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[20:52:00] [Server thread/INFO]: Topherade[/192.168.1.1:54278] logged in with entity id 9017 at (-520.7448330016723, 71.3500000178814, -202.60894763967968)
+[20:52:00] [Server thread/INFO]: Topherade joined the game
+[20:52:01] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3150753214905535
+[20:52:28] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.34301217842926235
+[20:52:28] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2844185230100038
+[20:52:29] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4530558895071408
+[20:52:29] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4399190747768671
+[20:52:29] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.3480172099153833
+[20:54:43] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.2891988496448903
+[20:57:08] [Server thread/INFO]: Topherade has made the advancement [Bee Our Guest]
+[20:57:53] [Server thread/INFO]: Villager bav['Farmer'/191, l='world', x=-508.95, y=66.56, z=-212.30] died, message: 'Farmer was killed by Evoker using magic'
+[20:58:01] [Server thread/INFO]: Topherade was slain by Vex
+[21:01:59] [Server thread/INFO]: Villager bav['Farmer'/193, l='world', x=-516.85, y=67.00, z=-205.30] died, message: 'Farmer was slain by Vex'
+[21:02:15] [Server thread/INFO]: Cados_Barbados was slain by Iron Golem
+[21:02:45] [Server thread/INFO]: Topherade was slain by Ravager
+[21:02:47] [Server thread/INFO]: Villager bav['Villager'/188, l='world', x=-518.51, y=67.00, z=-212.36] died, message: 'Villager was slain by Vex'
+[21:02:50] [Server thread/INFO]: townskiller has made the advancement [Take Aim]
+[21:03:07] [Server thread/INFO]: Topherade was slain by Ravager
+[21:03:21] [Server thread/INFO]: Topherade was slain by Ravager
+[21:03:32] [Server thread/INFO]: Topherade was slain by Ravager
+[21:03:38] [Server thread/INFO]: Villager bav['Farmer'/187, l='world', x=-516.60, y=67.00, z=-215.27] died, message: 'Farmer was killed by Evoker using magic'
+[21:03:55] [Server thread/INFO]: Villager bav['Mason'/211, l='world', x=-511.48, y=66.00, z=-206.98] died, message: 'Mason was killed by Evoker using magic'
+[21:04:02] [Server thread/INFO]: Topherade was slain by Vex
+[21:09:28] [Server thread/INFO]: Topherade has made the advancement [Ol' Betsy]
+[21:09:28] [Server thread/INFO]: Topherade has made the advancement [Take Aim]
+[21:11:08] [Server thread/INFO]: Cados_Barbados has completed the challenge [Hero of the Village]
+[21:11:08] [Server thread/INFO]: Topherade has completed the challenge [Hero of the Village]
+[21:11:08] [Server thread/INFO]: townskiller has completed the challenge [Hero of the Village]
+[21:11:23] [Server thread/INFO]: townskiller was slain by Vex
+[21:13:31] [Server thread/INFO]: <Topherade> eee
+[21:14:23] [Server thread/INFO]: Topherade has made the advancement [What a Deal!]
+[21:25:05] [Server thread/WARN]: Fetching packet for removed entity ayo['Wheat Seeds'/16611, l='world', x=-487.80, y=64.00, z=-241.09]
+[21:26:15] [Server thread/INFO]: Villager bav['Cartographer'/216, l='world', x=-496.70, y=70.00, z=-209.70] died, message: 'Cartographer was blown up by Creeper'
+[21:26:15] [Server thread/INFO]: Villager bav['Farmer'/209, l='world', x=-496.70, y=70.00, z=-211.70] died, message: 'Farmer was blown up by Creeper'
+[21:45:53] [Server thread/INFO]: Cados_Barbados has made the advancement [We Need to Go Deeper]
+[21:47:02] [Server thread/INFO]: Topherade lost connection: Disconnected
+[21:47:02] [Server thread/INFO]: Topherade left the game
+[21:47:30] [User Authenticator #5/INFO]: UUID of player Topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[21:47:30] [Server thread/INFO]: Topherade[/192.168.1.1:54376] logged in with entity id 22496 at (-52.39409364424651, 67.8500000178814, -19.020997457453067)
+[21:47:30] [Server thread/INFO]: Topherade joined the game
+[21:47:56] [Server thread/INFO]: <Topherade> -50 -20
+[21:49:09] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.4563080286791603
+[21:49:10] [Server thread/WARN]: Horse (vehicle of Topherade) moved wrongly! 0.25079608285690824
+[21:51:10] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.25833693273460767
+[21:51:10] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.7326002113018433
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.2505765614984057
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.6752965529117319
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.4098402290525769
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.40274185899721715
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.3913623152504897
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.3777553448560411
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.3635462041981441
+[21:53:13] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.25718772974411763
+[22:10:05] [Server thread/INFO]: Cados_Barbados has made the advancement [A Terrible Fortress]
+[22:10:29] [Server thread/INFO]: Topherade has made the advancement [A Terrible Fortress]
+[22:10:58] [Server thread/INFO]: Cados_Barbados has made the advancement [Into Fire]
+[22:12:11] [Server thread/INFO]: townskiller lost connection: Disconnected
+[22:12:11] [Server thread/INFO]: townskiller left the game
+[22:13:04] [Server thread/INFO]: Topherade was slain by Magma Cube
+[22:17:52] [Server thread/INFO]: Topherade has made the advancement [Into Fire]
+[22:24:07] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
+[22:24:07] [Server thread/INFO]: Cados_Barbados left the game
+[22:24:11] [Server thread/INFO]: Topherade lost connection: Disconnected
+[22:24:11] [Server thread/INFO]: Topherade left the game
+[22:24:18] [Server thread/INFO]: Stopping the server
+[22:24:18] [Server thread/INFO]: Stopping server
+[22:24:18] [Server thread/INFO]: Saving players
+[22:24:18] [Server thread/INFO]: Saving worlds
+[22:24:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:24:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:24:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:24:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
