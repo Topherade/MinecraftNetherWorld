@@ -251,15 +251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2020-03-16 22:15:55 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2020-03-16 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-16 22:15:55 -0400"
     },
     "done": true
   },
@@ -530,6 +530,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-03-08 20:00:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-17 19:35:21 -0400"
     },
     "done": true
   },
@@ -959,15 +965,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2020-03-16 22:14:49 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_fire_torch": {
     "criteria": {
       "has_soul_soil": "2020-03-16 21:51:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-03-16 22:14:49 -0400"
     },
     "done": true
   },
@@ -1124,6 +1130,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2020-03-16 20:57:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-03-17 19:40:32 -0400"
     },
     "done": true
   },
