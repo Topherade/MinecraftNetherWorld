@@ -304,3 +304,17 @@
 [12:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10239ms or 204 ticks behind
 [12:12:17] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
 [12:12:17] [Server thread/INFO]: Cados_Barbados left the game
+[18:15:17] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[18:15:17] [Server thread/INFO]: [Rcon: Stopping the server]
+[18:15:17] [Server thread/INFO]: Stopping server
+[18:15:17] [Server thread/INFO]: Saving players
+[18:15:17] [Server thread/INFO]: Saving worlds
+[18:15:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:15:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:15:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
