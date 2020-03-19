@@ -505,6 +505,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-03-18 21:11:23 -0400",
       "minecraft:skeleton": "2020-03-11 22:26:16 -0400",
       "minecraft:spider": "2020-03-11 23:10:52 -0400",
       "minecraft:zombie": "2020-03-13 22:57:17 -0400"
@@ -586,6 +587,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-12 11:06:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-03-18 21:11:23 -0400"
     },
     "done": true
   },
@@ -975,16 +982,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2020-03-11 20:21:37 -0400",
       "minecraft:mountains": "2020-03-14 23:18:32 -0400",
+      "minecraft:forest": "2020-03-11 20:21:37 -0400",
       "minecraft:desert_hills": "2020-03-14 23:17:58 -0400",
       "minecraft:desert": "2020-03-14 23:14:11 -0400",
       "minecraft:birch_forest": "2020-03-14 23:40:53 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-03-13 20:32:04 -0400",
       "minecraft:savanna_plateau": "2020-03-11 20:27:03 -0400",
       "minecraft:beach": "2020-03-11 20:24:56 -0400",
-      "minecraft:river": "2020-03-12 17:07:05 -0400",
       "minecraft:lukewarm_ocean": "2020-03-13 20:32:55 -0400",
+      "minecraft:river": "2020-03-12 17:07:05 -0400",
       "minecraft:wooded_mountains": "2020-03-14 23:19:41 -0400",
       "minecraft:wooded_hills": "2020-03-14 23:08:06 -0400",
       "minecraft:stone_shore": "2020-03-14 23:20:03 -0400",
@@ -1113,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-18 21:50:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2020-03-15 01:02:23 -0400"
@@ -1200,6 +1213,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-03-12 11:06:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-03-18 21:41:49 -0400"
     },
     "done": true
   },
@@ -2449,5 +2468,5 @@
     },
     "done": true
   },
-  "DataVersion": 2513
+  "DataVersion": 2515
 }
