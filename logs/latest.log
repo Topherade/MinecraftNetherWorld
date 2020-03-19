@@ -161,3 +161,18 @@
 [00:07:22] [Server thread/INFO]: MrsLemonDrop left the game
 [00:07:34] [Server thread/INFO]: townskiller lost connection: Disconnected
 [00:07:34] [Server thread/INFO]: townskiller left the game
+[00:08:12] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
+[00:08:12] [Server thread/INFO]: Cados_Barbados left the game
+[00:08:19] [Server thread/INFO]: Stopping the server
+[00:08:19] [Server thread/INFO]: Stopping server
+[00:08:19] [Server thread/INFO]: Saving players
+[00:08:19] [Server thread/INFO]: Saving worlds
+[00:08:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
