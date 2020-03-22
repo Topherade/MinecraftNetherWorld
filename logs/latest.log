@@ -1,14 +1,135 @@
-[04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
-[04:00:01] [Server thread/INFO]: [Rcon: Stopping the server]
-[04:00:01] [Server thread/INFO]: Stopping server
-[04:00:01] [Server thread/INFO]: Saving players
-[04:00:01] [Server thread/INFO]: Saving worlds
-[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
+[00:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
+[00:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6139ms or 122 ticks behind
+[00:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[00:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[00:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[00:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[00:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[00:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4329ms or 86 ticks behind
+[00:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3726ms or 74 ticks behind
+[00:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[00:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[00:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
+[00:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5680ms or 113 ticks behind
+[00:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5555ms or 111 ticks behind
+[00:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
+[00:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4512ms or 90 ticks behind
+[00:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[00:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[00:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[00:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5977ms or 119 ticks behind
+[00:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[00:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[00:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[00:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4140ms or 82 ticks behind
+[00:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[00:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[00:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[00:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[00:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5457ms or 109 ticks behind
+[00:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5405ms or 108 ticks behind
+[00:11:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[00:11:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5763ms or 115 ticks behind
+[00:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
+[00:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5461ms or 109 ticks behind
+[00:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[00:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7385ms or 147 ticks behind
+[00:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6409ms or 128 ticks behind
+[00:13:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[00:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[00:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[00:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[00:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[00:15:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3887ms or 77 ticks behind
+[00:15:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[00:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3632ms or 72 ticks behind
+[00:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[00:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[00:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:18:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5428ms or 108 ticks behind
+[00:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[00:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
+[00:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[00:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[00:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[00:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[00:21:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[00:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[00:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
+[00:23:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[00:23:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[00:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[00:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5758ms or 115 ticks behind
+[00:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[00:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[00:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3165ms or 63 ticks behind
+[00:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[00:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[00:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[00:27:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[00:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[00:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
+[00:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3510ms or 70 ticks behind
+[00:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3499ms or 69 ticks behind
+[00:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[00:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
+[00:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4048ms or 80 ticks behind
+[00:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2831ms or 56 ticks behind
+[00:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[00:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[00:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[00:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[00:38:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[00:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[00:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[00:40:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[00:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[00:40:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3300ms or 66 ticks behind
+[00:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[00:45:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[00:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[00:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[00:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[00:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:49:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[00:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[00:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[00:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[00:52:10] [Server thread/INFO]: MrsLemonDrop lost connection: Disconnected
+[00:52:10] [Server thread/INFO]: MrsLemonDrop left the game
+[04:00:02] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[04:00:02] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:00:02] [Server thread/INFO]: Stopping server
+[04:00:02] [Server thread/INFO]: Saving players
+[04:00:02] [Server thread/INFO]: Saving worlds
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
 [04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

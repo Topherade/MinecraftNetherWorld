@@ -728,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-03-21 22:27:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-03-11 20:24:50 -0400"
@@ -779,6 +785,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-11 21:35:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-03-21 22:27:41 -0400"
     },
     "done": true
   },
@@ -1015,6 +1027,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-03-11 21:34:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-03-21 22:27:41 -0400"
     },
     "done": true
   },
