@@ -559,8 +559,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2020-03-16 22:10:49 -0400",
       "minecraft:pillager": "2020-03-13 19:38:52 -0400",
+      "minecraft:blaze": "2020-03-16 22:10:49 -0400",
       "minecraft:skeleton": "2020-03-08 20:35:28 -0400",
       "minecraft:ravager": "2020-03-16 20:58:21 -0400",
       "minecraft:vindicator": "2020-03-16 20:57:02 -0400",
@@ -1125,8 +1125,8 @@
       "minecraft:deep_lukewarm_ocean": "2020-03-08 20:06:35 -0400",
       "minecraft:savanna_plateau": "2020-03-08 20:19:42 -0400",
       "minecraft:beach": "2020-03-08 19:59:32 -0400",
-      "minecraft:river": "2020-03-08 20:08:13 -0400",
       "minecraft:lukewarm_ocean": "2020-03-08 20:17:18 -0400",
+      "minecraft:river": "2020-03-08 20:08:13 -0400",
       "minecraft:wooded_hills": "2020-03-18 21:55:27 -0400",
       "minecraft:savanna": "2020-03-08 20:18:30 -0400",
       "minecraft:plains": "2020-03-08 20:07:55 -0400"
@@ -2783,5 +2783,5 @@
     },
     "done": true
   },
-  "DataVersion": 2515
+  "DataVersion": 2520
 }
