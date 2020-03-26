@@ -677,3 +677,5 @@
 [20:34:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
 [20:34:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [20:34:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
