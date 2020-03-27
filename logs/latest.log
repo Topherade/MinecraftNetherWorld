@@ -1,48 +1,14 @@
-[00:37:53] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.3513646595156388
-[00:37:53] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.8040259940113401
-[00:37:53] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.2576157468274687
-[00:37:54] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.35598584590366045
-[00:37:54] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.8106440325940412
-[00:47:09] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
-[00:47:09] [Server thread/INFO]: Cados_Barbados left the game
-[14:22:41] [User Authenticator #11/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
-[14:22:41] [Server thread/INFO]: townskiller[/172.124.227.187:51952] logged in with entity id 57358 at (-616.7393886053453, 64.0, -463.8646907282757)
-[14:22:41] [Server thread/INFO]: townskiller joined the game
-[14:24:49] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.4314793814727409
-[14:24:49] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.9749067322997576
-[14:26:51] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.3017099720703982
-[14:26:51] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.7718766491003635
-[14:41:41] [Server thread/INFO]: townskiller lost connection: Disconnected
-[14:41:41] [Server thread/INFO]: townskiller left the game
-[14:44:23] [User Authenticator #12/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
-[14:44:23] [Server thread/INFO]: townskiller[/172.124.227.187:51996] logged in with entity id 61334 at (-654.382200301883, 63.0, -434.1914293024353)
-[14:44:23] [Server thread/INFO]: townskiller joined the game
-[14:48:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-666, y=36, z=-433} fo{x=-668, y=35, z=-433}
-[14:59:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-650, y=59, z=-436} fo{x=-651, y=59, z=-436}
-[15:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-665, y=60, z=-441} fo{x=-664, y=59, z=-440}
-[15:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-665, y=60, z=-441} fo{x=-664, y=59, z=-440}
-[15:14:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-665, y=60, z=-441} fo{x=-664, y=59, z=-440}
-[15:14:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-662, y=60, z=-445} fo{x=-663, y=60, z=-444}
-[15:49:55] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.254245913292948
-[15:49:55] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.6647402232393915
-[15:50:30] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.47793265335323554
-[15:50:30] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.49675987621631634
-[15:50:30] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.52159214340179
-[15:50:30] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.5174840888418544
-[15:50:30] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 1.0421019400220644
-[15:50:33] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.44955167070767743
-[16:24:37] [Server thread/INFO]: townskiller lost connection: Disconnected
-[16:24:37] [Server thread/INFO]: townskiller left the game
-[21:02:56] [Server thread/INFO]: Stopping the server
-[21:02:56] [Server thread/INFO]: Stopping server
-[21:02:56] [Server thread/INFO]: Saving players
-[21:02:56] [Server thread/INFO]: Saving worlds
-[21:02:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:02:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:02:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:02:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:02:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:02:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:02:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:02:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:02:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[04:00:01] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:00:01] [Server thread/INFO]: Stopping server
+[04:00:01] [Server thread/INFO]: Saving players
+[04:00:01] [Server thread/INFO]: Saving worlds
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
