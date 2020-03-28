@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-03-27 23:56:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-09 22:09:11 -0400"
@@ -943,8 +949,8 @@
       "minecraft:deep_lukewarm_ocean": "2020-03-09 20:53:59 -0400",
       "minecraft:savanna_plateau": "2020-03-09 20:57:37 -0400",
       "minecraft:beach": "2020-03-09 20:52:32 -0400",
-      "minecraft:lukewarm_ocean": "2020-03-09 20:54:12 -0400",
       "minecraft:river": "2020-03-09 20:54:32 -0400",
+      "minecraft:lukewarm_ocean": "2020-03-09 20:54:12 -0400",
       "minecraft:savanna": "2020-03-09 20:54:53 -0400",
       "minecraft:plains": "2020-03-12 21:34:07 -0400"
     },
@@ -2455,5 +2461,5 @@
     },
     "done": true
   },
-  "DataVersion": 2520
+  "DataVersion": 2521
 }
