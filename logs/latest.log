@@ -1,88 +1,106 @@
-[00:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
-[00:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[00:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
-[00:01:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
-[00:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7693ms or 153 ticks behind
-[00:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7822ms or 156 ticks behind
-[00:02:17] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.31391237278199924
-[00:02:17] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.8494968548502584
-[00:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17008ms or 340 ticks behind
-[00:02:50] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.2877510011551294
-[00:02:50] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.7286528713631242
-[00:02:50] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 1.1695552907184492
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -7.975921106217243,0.0,-6.102302395433298
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -8.493596740439557,0.0,-6.272601129701343
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -9.012641813286223,0.0,-6.439079032105951
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -9.532419645437017,0.0,-6.603512483559484
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -10.052589562481899,0.0,-6.766851990071245
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -10.572969276336266,0.0,-6.9296061484553775
-[00:02:53] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -11.093461248280505,0.0,-7.092047098727107
-[00:03:00] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -1.3271939437250921,0.0,-10.259250311786559
-[00:03:00] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -1.3071882352362536,0.0,-10.80257229058418
-[00:03:00] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -1.1968501489385517,0.0,-11.326398815712423
-[00:03:00] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! -0.9181668927770943,0.0,-11.733265332319093
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 10.220480073704607,0.0,0.8797968247237691
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 10.749803701293217,0.0,1.010456531228101
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 11.277324464597427,0.0,1.1481002393101107
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 11.802785460702808,0.0,1.2933134693724355
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 12.326383204850913,0.0,1.445114494202926
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 12.847788931260766,0.0,1.6042430677366042
-[00:03:06] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 13.366774926443782,0.0,1.7710527394535802
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 8.830984046803678,0.0,4.839848031804593
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 9.212542592255659,0.0,5.229248938036676
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 9.593940541162851,0.0,5.618864598920595
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 6.233606720451121
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 5.851358692377062
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 5.463073900802669
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 5.070640609987549
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 4.67598753994082
-[00:03:07] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 4.278341897723749
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 9.287209052302387,1.0,3.898627113256282
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 9.743914175512145,0.9231679985046384,4.173140585167914
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 10.009280753935059,0.7725465413369932,4.3342383459084886
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 10.266701417406807,0.5510576895623984,4.4924447147382125
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.3887531267423583
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.3887531267423583
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.3887531267423583
-[00:03:12] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 0.3887531267423583
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 10.355237746699686,0.0,0.24771248788616163
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 10.899967234637586,0.0,0.27036471503214443
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 11.44158319683396,0.0,0.32364450134610934
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 11.976035101313585,0.0,0.41859466769301434
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 12.500688218212076,0.0,0.5525230699541623
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 13.006898486410762,0.0,0.5525230699541623
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved too quickly! 13.489162849245588,0.0,0.5525230699541623
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.868842628817731
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.452177476167037
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 3.085251409915031
-[00:03:18] [Server thread/WARN]: Chris the Horse (vehicle of townskiller) moved wrongly! 2.7763726669009543
-[00:03:57] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[00:03:57] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[00:03:57] [Server Watchdog/ERROR]: This crash report has been saved to: /opt/minecraft/server/./crash-reports/crash-2020-03-28_00.03.57-server.txt
-[00:03:57] [Server thread/INFO]: Stopping server
-[00:03:57] [Server thread/INFO]: Saving players
-[00:03:57] [Server thread/INFO]: townskiller lost connection: Server closed
-[00:03:57] [Server thread/INFO]: townskiller left the game
-[00:03:57] [Server thread/INFO]: Saving worlds
-[00:03:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:04:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:04:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:04:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:04:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:15:37] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[04:15:38] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:15:41] [Server thread/INFO]: Starting minecraft server version 20w13b
+[04:15:41] [Server thread/INFO]: Loading properties
+[04:15:41] [Server thread/INFO]: Default game type: SURVIVAL
+[04:15:41] [Server thread/INFO]: Generating keypair
+[04:15:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:15:42] [Server thread/INFO]: Using default channel type
+[04:15:43] [Server thread/INFO]: Preparing level "world"
+[04:15:44] [Server thread/INFO]: Reloading ResourceManager: Default
+[04:15:58] [Server thread/INFO]: Loaded 6 recipes
+[04:16:01] [Server thread/INFO]: Loaded 863 advancements
+[04:18:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
+[04:18:35] [Server thread/INFO]: Preparing spawn area: 83%
+[04:18:35] [Server thread/INFO]: Preparing spawn area: 83%
+[04:18:35] [Server thread/INFO]: Preparing spawn area: 83%
+[04:18:35] [Server thread/INFO]: Time elapsed: 7071 ms
+[04:18:35] [Server thread/INFO]: Done (161.632s)! For help, type "help"
+[04:18:35] [Server thread/INFO]: Starting remote control listener
+[04:18:35] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[10:20:44] [User Authenticator #1/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
+[10:20:45] [Server thread/INFO]: townskiller[/172.124.227.187:55917] logged in with entity id 31 at (-505.69999998807907, 56.0, -201.42084575774024)
+[10:20:45] [Server thread/INFO]: townskiller joined the game
+[10:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[10:21:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32963ms or 659 ticks behind
+[10:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31216ms or 624 ticks behind
+[10:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35965ms or 719 ticks behind
+[10:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56935ms or 1138 ticks behind
+[10:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32798ms or 655 ticks behind
+[10:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35275ms or 705 ticks behind
+[10:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32759ms or 655 ticks behind
+[10:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43527ms or 870 ticks behind
+[10:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48019ms or 960 ticks behind
+[10:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[10:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8815ms or 176 ticks behind
+[10:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38353ms or 767 ticks behind
+[10:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26422ms or 528 ticks behind
+[10:31:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27284ms or 545 ticks behind
+[10:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27716ms or 554 ticks behind
+[10:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22435ms or 448 ticks behind
+[10:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22545ms or 450 ticks behind
+[10:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30912ms or 618 ticks behind
+[10:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 53851ms or 1077 ticks behind
+[10:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39339ms or 786 ticks behind
+[10:37:14] [Server thread/INFO]: Villager bbp['Weaponsmith'/33, l='world', x=-493.52, y=64.00, z=-229.30] died, message: 'Weaponsmith was slain by Vindicator'
+[10:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31849ms or 636 ticks behind
+[10:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26365ms or 527 ticks behind
+[10:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26363ms or 527 ticks behind
+[10:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26850ms or 537 ticks behind
+[10:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22960ms or 459 ticks behind
+[10:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17205ms or 344 ticks behind
+[10:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20518ms or 410 ticks behind
+[10:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
+[10:42:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16964ms or 339 ticks behind
+[10:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16395ms or 327 ticks behind
+[10:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20171ms or 403 ticks behind
+[10:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20764ms or 415 ticks behind
+[10:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17164ms or 343 ticks behind
+[10:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12801ms or 256 ticks behind
+[10:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13792ms or 275 ticks behind
+[10:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14088ms or 281 ticks behind
+[10:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25062ms or 501 ticks behind
+[10:47:05] [Server thread/INFO]: Villager bbp['Weaponsmith'/39, l='world', x=-551.86, y=65.00, z=-244.41] died, message: 'Weaponsmith was shot by Pillager'
+[10:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20669ms or 413 ticks behind
+[10:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19890ms or 397 ticks behind
+[10:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32887ms or 657 ticks behind
+[10:48:50] [Server thread/INFO]: Villager bbp['Cartographer'/54, l='world', x=-527.70, y=69.00, z=-227.41] died, message: 'Cartographer was slain by Vex'
+[10:49:05] [Server thread/INFO]: Villager bbp['Cleric'/58, l='world', x=-516.67, y=65.92, z=-227.61] died, message: 'Cleric was slain by Vex'
+[10:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19965ms or 399 ticks behind
+[10:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18783ms or 375 ticks behind
+[10:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17513ms or 350 ticks behind
+[10:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21228ms or 424 ticks behind
+[10:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19144ms or 382 ticks behind
+[10:51:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14237ms or 284 ticks behind
+[10:52:07] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[10:52:07] [Server thread/INFO]: [Rcon: Stopping the server]
+[10:52:07] [Server thread/INFO]: Stopping server
+[10:52:07] [Server thread/INFO]: Saving players
+[10:52:07] [Server thread/INFO]: townskiller lost connection: Internal Exception: java.lang.StackOverflowError
+[10:52:07] [Server thread/INFO]: townskiller left the game
+[10:52:08] [Server thread/INFO]: Saving worlds
+[10:52:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:52:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:52:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:52:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:52:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
