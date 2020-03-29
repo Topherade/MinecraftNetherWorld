@@ -1,16 +1,49 @@
-[00:04:06] [Server thread/INFO]: Set the time to 1000
-[00:08:40] [Server thread/INFO]: MrsLemonDrop lost connection: Disconnected
-[00:08:40] [Server thread/INFO]: MrsLemonDrop left the game
-[00:59:06] [Server thread/INFO]: Stopping the server
-[00:59:06] [Server thread/INFO]: Stopping server
-[00:59:06] [Server thread/INFO]: Saving players
-[00:59:06] [Server thread/INFO]: Saving worlds
-[00:59:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:59:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:59:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:01:28] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[01:01:28] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[01:01:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:01:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:01:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:01:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:01:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:01:33] [Server thread/INFO]: Starting minecraft server version 20w13b
+[01:01:33] [Server thread/INFO]: Loading properties
+[01:01:33] [Server thread/INFO]: Default game type: SURVIVAL
+[01:01:33] [Server thread/INFO]: Generating keypair
+[01:01:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:01:34] [Server thread/INFO]: Using default channel type
+[01:01:34] [Server thread/INFO]: Preparing level "world"
+[01:01:35] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:01:40] [Server thread/INFO]: Loaded 6 recipes
+[01:01:41] [Server thread/INFO]: Loaded 863 advancements
+[01:04:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:26] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:27] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:27] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:27] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:29] [Server thread/INFO]: Preparing spawn area: 83%
+[01:04:29] [Server thread/INFO]: Preparing spawn area: 83%
+[01:04:29] [Server thread/INFO]: Preparing spawn area: 83%
+[01:04:29] [Server thread/INFO]: Time elapsed: 6690 ms
+[01:04:29] [Server thread/INFO]: Done (175.098s)! For help, type "help"
+[01:04:29] [Server thread/INFO]: Starting remote control listener
+[01:04:29] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[04:00:01] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:00:01] [Server thread/INFO]: Stopping server
+[04:00:01] [Server thread/INFO]: Saving players
+[04:00:01] [Server thread/INFO]: Saving worlds
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
