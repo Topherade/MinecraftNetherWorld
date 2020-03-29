@@ -1,106 +1,16 @@
-[04:15:37] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[04:15:38] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:15:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:15:41] [Server thread/INFO]: Starting minecraft server version 20w13b
-[04:15:41] [Server thread/INFO]: Loading properties
-[04:15:41] [Server thread/INFO]: Default game type: SURVIVAL
-[04:15:41] [Server thread/INFO]: Generating keypair
-[04:15:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:15:42] [Server thread/INFO]: Using default channel type
-[04:15:43] [Server thread/INFO]: Preparing level "world"
-[04:15:44] [Server thread/INFO]: Reloading ResourceManager: Default
-[04:15:58] [Server thread/INFO]: Loaded 6 recipes
-[04:16:01] [Server thread/INFO]: Loaded 863 advancements
-[04:18:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:31] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:33] [Server thread/INFO]: Preparing spawn area: 0%
-[04:18:35] [Server thread/INFO]: Preparing spawn area: 83%
-[04:18:35] [Server thread/INFO]: Preparing spawn area: 83%
-[04:18:35] [Server thread/INFO]: Preparing spawn area: 83%
-[04:18:35] [Server thread/INFO]: Time elapsed: 7071 ms
-[04:18:35] [Server thread/INFO]: Done (161.632s)! For help, type "help"
-[04:18:35] [Server thread/INFO]: Starting remote control listener
-[04:18:35] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[10:20:44] [User Authenticator #1/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
-[10:20:45] [Server thread/INFO]: townskiller[/172.124.227.187:55917] logged in with entity id 31 at (-505.69999998807907, 56.0, -201.42084575774024)
-[10:20:45] [Server thread/INFO]: townskiller joined the game
-[10:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
-[10:21:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32963ms or 659 ticks behind
-[10:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31216ms or 624 ticks behind
-[10:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35965ms or 719 ticks behind
-[10:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56935ms or 1138 ticks behind
-[10:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32798ms or 655 ticks behind
-[10:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35275ms or 705 ticks behind
-[10:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32759ms or 655 ticks behind
-[10:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43527ms or 870 ticks behind
-[10:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48019ms or 960 ticks behind
-[10:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
-[10:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8815ms or 176 ticks behind
-[10:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38353ms or 767 ticks behind
-[10:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26422ms or 528 ticks behind
-[10:31:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27284ms or 545 ticks behind
-[10:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27716ms or 554 ticks behind
-[10:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22435ms or 448 ticks behind
-[10:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22545ms or 450 ticks behind
-[10:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30912ms or 618 ticks behind
-[10:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 53851ms or 1077 ticks behind
-[10:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39339ms or 786 ticks behind
-[10:37:14] [Server thread/INFO]: Villager bbp['Weaponsmith'/33, l='world', x=-493.52, y=64.00, z=-229.30] died, message: 'Weaponsmith was slain by Vindicator'
-[10:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31849ms or 636 ticks behind
-[10:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26365ms or 527 ticks behind
-[10:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26363ms or 527 ticks behind
-[10:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26850ms or 537 ticks behind
-[10:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22960ms or 459 ticks behind
-[10:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17205ms or 344 ticks behind
-[10:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20518ms or 410 ticks behind
-[10:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
-[10:42:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16964ms or 339 ticks behind
-[10:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16395ms or 327 ticks behind
-[10:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20171ms or 403 ticks behind
-[10:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20764ms or 415 ticks behind
-[10:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17164ms or 343 ticks behind
-[10:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12801ms or 256 ticks behind
-[10:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13792ms or 275 ticks behind
-[10:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14088ms or 281 ticks behind
-[10:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25062ms or 501 ticks behind
-[10:47:05] [Server thread/INFO]: Villager bbp['Weaponsmith'/39, l='world', x=-551.86, y=65.00, z=-244.41] died, message: 'Weaponsmith was shot by Pillager'
-[10:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20669ms or 413 ticks behind
-[10:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19890ms or 397 ticks behind
-[10:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32887ms or 657 ticks behind
-[10:48:50] [Server thread/INFO]: Villager bbp['Cartographer'/54, l='world', x=-527.70, y=69.00, z=-227.41] died, message: 'Cartographer was slain by Vex'
-[10:49:05] [Server thread/INFO]: Villager bbp['Cleric'/58, l='world', x=-516.67, y=65.92, z=-227.61] died, message: 'Cleric was slain by Vex'
-[10:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19965ms or 399 ticks behind
-[10:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18783ms or 375 ticks behind
-[10:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17513ms or 350 ticks behind
-[10:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21228ms or 424 ticks behind
-[10:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19144ms or 382 ticks behind
-[10:51:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14237ms or 284 ticks behind
-[10:52:07] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
-[10:52:07] [Server thread/INFO]: [Rcon: Stopping the server]
-[10:52:07] [Server thread/INFO]: Stopping server
-[10:52:07] [Server thread/INFO]: Saving players
-[10:52:07] [Server thread/INFO]: townskiller lost connection: Internal Exception: java.lang.StackOverflowError
-[10:52:07] [Server thread/INFO]: townskiller left the game
-[10:52:08] [Server thread/INFO]: Saving worlds
-[10:52:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:52:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:52:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:52:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:52:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:52:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:04:06] [Server thread/INFO]: Set the time to 1000
+[00:08:40] [Server thread/INFO]: MrsLemonDrop lost connection: Disconnected
+[00:08:40] [Server thread/INFO]: MrsLemonDrop left the game
+[00:59:06] [Server thread/INFO]: Stopping the server
+[00:59:06] [Server thread/INFO]: Stopping server
+[00:59:06] [Server thread/INFO]: Saving players
+[00:59:06] [Server thread/INFO]: Saving worlds
+[00:59:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:59:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
