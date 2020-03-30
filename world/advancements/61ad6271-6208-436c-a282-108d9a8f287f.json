@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-03-29 20:54:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-03-25 18:32:40 -0400"
@@ -788,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-03-29 20:50:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-03-12 16:29:56 -0400"
@@ -809,6 +821,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-11 21:17:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-03-29 20:39:37 -0400"
     },
     "done": true
   },
@@ -869,6 +887,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-03-12 11:21:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-03-29 20:50:30 -0400"
     },
     "done": true
   },
@@ -1048,11 +1072,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-03-29 21:11:54 -0400",
       "minecraft:mountains": "2020-03-14 23:18:32 -0400",
       "minecraft:forest": "2020-03-11 20:21:37 -0400",
       "minecraft:desert_hills": "2020-03-14 23:17:58 -0400",
       "minecraft:desert": "2020-03-14 23:14:11 -0400",
+      "minecraft:jungle": "2020-03-29 20:50:21 -0400",
       "minecraft:birch_forest": "2020-03-14 23:40:53 -0400",
+      "minecraft:warm_ocean": "2020-03-29 20:37:47 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-03-13 20:32:04 -0400",
       "minecraft:savanna_plateau": "2020-03-11 20:27:03 -0400",
       "minecraft:beach": "2020-03-11 20:24:56 -0400",
@@ -1150,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-29 20:29:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-11 21:34:57 -0400"
@@ -1234,6 +1267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-03-29 20:57:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2020-03-12 11:21:44 -0400"
@@ -1303,6 +1342,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-03-11 21:34:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-03-29 20:57:28 -0400"
     },
     "done": true
   },
@@ -1720,6 +1765,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2020-03-29 15:43:38 -0400",
       "minecraft:sheep": "2020-03-13 23:28:54 -0400",
       "minecraft:cow": "2020-03-15 00:02:47 -0400"
     },
@@ -2412,6 +2458,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-03-13 21:02:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-03-29 21:32:00 -0400"
     },
     "done": true
   },
