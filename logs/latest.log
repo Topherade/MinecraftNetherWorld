@@ -1,119 +1,99 @@
-[18:01:44] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[18:01:45] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[18:01:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:01:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:01:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:01:46] [Server thread/INFO]: Starting minecraft server version 20w14a
-[18:01:46] [Server thread/INFO]: Loading properties
-[18:01:46] [Server thread/INFO]: Default game type: SURVIVAL
-[18:01:46] [Server thread/INFO]: Generating keypair
-[18:01:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:01:47] [Server thread/INFO]: Using default channel type
-[18:01:48] [Server thread/INFO]: Preparing level "world"
-[18:01:48] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:04:39] [Server thread/INFO]: Loaded 6 recipes
-[18:04:40] [Server thread/INFO]: Loaded 863 advancements
-[18:04:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:46] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:48] [Worker-2/INFO]: Preparing spawn area: 0%
-[18:04:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:04:49] [Server thread/INFO]: Time elapsed: 7175 ms
-[18:04:49] [Server thread/INFO]: Done (180.936s)! For help, type "help"
-[18:04:49] [Server thread/INFO]: Starting remote control listener
-[18:04:49] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[18:30:58] [User Authenticator #1/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
-[18:30:58] [Server thread/INFO]: Cados_Barbados[/47.41.164.217:50651] logged in with entity id 31 at (-623.7447231504542, 64.0, -469.6031752593496)
-[18:30:59] [Server thread/INFO]: Cados_Barbados joined the game
-[18:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[18:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[18:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[18:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18:41:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[18:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29571ms or 591 ticks behind
-[18:42:16] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved too quickly! 8.812376741876164,0.0,5.552894578205041
-[18:42:16] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved too quickly! 9.33549016343568,0.0,5.596154873406675
-[18:42:16] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved too quickly! 9.858798638091798,0.0,5.63843063065903
-[18:42:16] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved too quickly! 10.382211481771037,0.0,5.680179581284307
-[18:42:16] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved too quickly! 10.905680171233598,0.0,5.713350275988915
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.7307875062894027
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.265668079945158
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.7307875062894027
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.7307875062894027
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.7307875062894027
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.7307875062894027
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.322366257932117
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 2.0151293633335854
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.8087384630566703
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.6600949632223774
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.5423509460060814
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.441140625869366
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.3468825606505561
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.2252594874479428
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.0614544904375407
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.8561610371986035
-[18:42:17] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.5318331461813841
-[18:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36298ms or 725 ticks behind
-[18:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18925ms or 378 ticks behind
-[18:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15685ms or 313 ticks behind
-[18:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17023ms or 340 ticks behind
-[18:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21170ms or 423 ticks behind
-[18:45:18] [Server thread/WARN]: Mule (vehicle of Cados_Barbados) moved wrongly! 0.3556692896671336
-[18:45:18] [Server thread/WARN]: Mule (vehicle of Cados_Barbados) moved wrongly! 0.8349820308961284
-[18:45:18] [Server thread/WARN]: Mule (vehicle of Cados_Barbados) moved wrongly! 1.3135092702762279
-[18:45:18] [Server thread/WARN]: Mule (vehicle of Cados_Barbados) moved wrongly! 1.7845262539938744
-[18:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28402ms or 568 ticks behind
-[18:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18643ms or 372 ticks behind
-[18:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
-[18:46:34] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
-[18:46:34] [Server thread/INFO]: Cados_Barbados left the game
-[19:55:11] [User Authenticator #2/INFO]: UUID of player Topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
-[19:55:12] [Server thread/INFO]: Topherade[/192.168.1.1:54074] logged in with entity id 3019 at (-512.5057758033452, 66.0, -208.67643591587537)
-[19:55:12] [Server thread/INFO]: Topherade joined the game
-[19:55:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[19:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26163ms or 523 ticks behind
-[19:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21683ms or 433 ticks behind
-[19:56:34] [Server thread/INFO]: [Topherade: Set the time to 1000]
-[19:57:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22711ms or 454 ticks behind
-[19:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6016ms or 120 ticks behind
-[19:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:58:44] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[19:58:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7476ms or 149 ticks behind
-[19:58:56] [Server thread/WARN]: Mule (vehicle of Topherade) moved wrongly! 0.3748401662106744
-[19:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14552ms or 291 ticks behind
-[19:59:28] [Server thread/INFO]: Topherade lost connection: Disconnected
-[19:59:28] [Server thread/INFO]: Topherade left the game
-[21:21:45] [User Authenticator #3/INFO]: UUID of player townskiller is 81fe772d-d106-42ec-989b-a60dbcb4cef7
-[21:21:46] [Server thread/INFO]: townskiller[/172.124.227.187:65438] logged in with entity id 4841 at (-648.2810994648623, 43.0, -477.56872310866163)
-[21:21:46] [Server thread/INFO]: townskiller joined the game
-[21:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[21:22:15] [RCON Listener #1/INFO]: Rcon connection from: /196.3.164.121
-[21:23:51] [Server thread/WARN]: Mule (vehicle of townskiller) moved wrongly! 0.3446890302537895
-[21:23:51] [Server thread/WARN]: Mule (vehicle of townskiller) moved wrongly! 0.8246392041970694
-[21:23:51] [Server thread/WARN]: Mule (vehicle of townskiller) moved wrongly! 1.304912639292695
-[21:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[21:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43367ms or 867 ticks behind
-[21:26:05] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[21:26:05] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[21:26:05] [Server Watchdog/ERROR]: This crash report has been saved to: /opt/minecraft/server/./crash-reports/crash-2020-04-02_21.26.05-server.txt
-[21:26:05] [Server thread/INFO]: Stopping server
-[21:26:05] [Server thread/INFO]: Saving players
-[21:26:05] [Server thread/INFO]: townskiller lost connection: Internal Exception: java.lang.StackOverflowError
-[21:26:05] [Server thread/INFO]: townskiller left the game
-[21:26:06] [Server thread/INFO]: Saving worlds
-[21:26:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:26:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:26:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:10:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:13] [Server thread/INFO]: save<--[HERE]
+[00:10:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:14] [Server thread/INFO]: save<--[HERE]
+[00:10:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:17] [Server thread/INFO]: quit<--[HERE]
+[00:10:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:19] [Server thread/INFO]: shutdown<--[HERE]
+[00:10:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:21] [Server thread/INFO]: exit<--[HERE]
+[00:10:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:24] [Server thread/INFO]: save<--[HERE]
+[00:10:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:10:25] [Server thread/INFO]: close<--[HERE]
+[00:10:27] [Server thread/INFO]: /advancement (grant|revoke)
+[00:10:27] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:10:27] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:10:27] [Server thread/INFO]: /banlist [ips|players]
+[00:10:27] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[00:10:27] [Server thread/INFO]: /clear [<targets>]
+[00:10:27] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[00:10:27] [Server thread/INFO]: /data (get|merge|modify|remove)
+[00:10:27] [Server thread/INFO]: /datapack (disable|enable|list)
+[00:10:27] [Server thread/INFO]: /debug (report|start|stop)
+[00:10:27] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[00:10:27] [Server thread/INFO]: /deop <targets>
+[00:10:27] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[00:10:27] [Server thread/INFO]: /effect (clear|give)
+[00:10:27] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:10:27] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[00:10:27] [Server thread/INFO]: /experience (add|query|set)
+[00:10:27] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[00:10:27] [Server thread/INFO]: /forceload (add|query|remove)
+[00:10:27] [Server thread/INFO]: /function <name>
+[00:10:27] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[00:10:27] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[00:10:27] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:10:27] [Server thread/INFO]: /help [<command>]
+[00:10:27] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:10:27] [Server thread/INFO]: /kill [<targets>]
+[00:10:27] [Server thread/INFO]: /list [uuids]
+[00:10:27] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Nether_Fossil|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[00:10:27] [Server thread/INFO]: /locatebiome <biome>
+[00:10:27] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[00:10:27] [Server thread/INFO]: /me <action>
+[00:10:27] [Server thread/INFO]: /msg <targets> <message>
+[00:10:27] [Server thread/INFO]: /op <targets>
+[00:10:27] [Server thread/INFO]: /pardon <targets>
+[00:10:27] [Server thread/INFO]: /pardon-ip <target>
+[00:10:27] [Server thread/INFO]: /particle <name> [<pos>]
+[00:10:27] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[00:10:27] [Server thread/INFO]: /recipe (give|take)
+[00:10:27] [Server thread/INFO]: /reload
+[00:10:27] [Server thread/INFO]: /replaceitem (block|entity)
+[00:10:27] [Server thread/INFO]: /save-all [flush]
+[00:10:27] [Server thread/INFO]: /save-off
+[00:10:27] [Server thread/INFO]: /save-on
+[00:10:27] [Server thread/INFO]: /say <message>
+[00:10:27] [Server thread/INFO]: /schedule (clear|function)
+[00:10:27] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:10:27] [Server thread/INFO]: /seed
+[00:10:27] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:10:27] [Server thread/INFO]: /setidletimeout <minutes>
+[00:10:27] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:10:27] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:10:27] [Server thread/INFO]: /spectate [<target>]
+[00:10:27] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[00:10:27] [Server thread/INFO]: /stop
+[00:10:27] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[00:10:27] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:10:27] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[00:10:27] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[00:10:27] [Server thread/INFO]: /teammsg <message>
+[00:10:27] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[00:10:27] [Server thread/INFO]: /tell -> msg
+[00:10:27] [Server thread/INFO]: /tellraw <targets> <message>
+[00:10:27] [Server thread/INFO]: /time (add|query|set)
+[00:10:27] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[00:10:27] [Server thread/INFO]: /tm -> teammsg
+[00:10:27] [Server thread/INFO]: /tp -> teleport
+[00:10:27] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:10:27] [Server thread/INFO]: /w -> msg
+[00:10:27] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:10:27] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[00:10:27] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[00:10:27] [Server thread/INFO]: /xp -> experience
+[00:10:32] [Server thread/INFO]: Stopping the server
+[00:10:32] [Server thread/INFO]: Stopping server
+[00:10:32] [Server thread/INFO]: Saving players
+[00:10:32] [Server thread/INFO]: Saving worlds
+[00:10:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:10:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

@@ -1275,9 +1275,11 @@
       "minecraft:deep_lukewarm_ocean": "2020-03-08 20:29:15 -0400",
       "minecraft:savanna_plateau": "2020-03-08 20:30:56 -0400",
       "minecraft:beach": "2020-03-08 20:27:57 -0400",
-      "minecraft:lukewarm_ocean": "2020-03-08 20:29:45 -0400",
       "minecraft:river": "2020-03-08 20:30:24 -0400",
-      "minecraft:savanna": "2020-03-08 20:30:22 -0400"
+      "minecraft:lukewarm_ocean": "2020-03-08 20:29:45 -0400",
+      "minecraft:wooded_hills": "2020-04-04 00:36:24 -0400",
+      "minecraft:savanna": "2020-03-08 20:30:22 -0400",
+      "minecraft:plains": "2020-04-04 00:34:44 -0400"
     },
     "done": false
   },
@@ -1533,5 +1535,5 @@
     },
     "done": true
   },
-  "DataVersion": 2513
+  "DataVersion": 2524
 }

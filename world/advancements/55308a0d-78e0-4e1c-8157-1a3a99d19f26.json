@@ -573,7 +573,8 @@
       "minecraft:wither_skeleton": "2020-03-16 22:16:56 -0400",
       "minecraft:husk": "2020-03-18 21:20:55 -0400",
       "minecraft:enderman": "2020-03-13 23:32:50 -0400",
-      "minecraft:zombie": "2020-03-08 20:04:41 -0400"
+      "minecraft:zombie": "2020-03-08 20:04:41 -0400",
+      "minecraft:zombie_villager": "2020-04-02 21:47:07 -0400"
     },
     "done": false
   },
@@ -646,6 +647,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2020-03-11 20:14:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-04-03 21:37:16 -0400"
     },
     "done": true
   },
@@ -1141,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-03 22:45:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-03-08 20:02:47 -0400"
@@ -1396,6 +1409,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-13 21:42:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-04-03 21:37:16 -0400"
     },
     "done": true
   },
@@ -1858,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-04-03 21:37:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2020-03-08 20:46:07 -0400"
@@ -1896,6 +1921,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2020-04-03 22:03:13 -0400",
       "minecraft:sheep": "2020-03-08 21:53:38 -0400",
       "minecraft:cow": "2020-03-08 21:51:49 -0400",
       "minecraft:chicken": "2020-03-28 15:11:05 -0400",
@@ -2195,6 +2221,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2020-03-16 21:15:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-03 22:45:07 -0400"
     },
     "done": true
   },
@@ -2525,6 +2557,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-03-14 23:24:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-03 22:45:07 -0400"
     },
     "done": true
   },
