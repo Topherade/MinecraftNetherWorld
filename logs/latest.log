@@ -1,14 +1,35 @@
-[04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[00:15:43] [User Authenticator #2/INFO]: UUID of player Topherade is 55308a0d-78e0-4e1c-8157-1a3a99d19f26
+[00:15:43] [Server thread/INFO]: Topherade[/192.168.1.1:53680] logged in with entity id 450 at (-618.6035385408683, 65.0, -451.50556123971114)
+[00:15:43] [Server thread/INFO]: Topherade joined the game
+[00:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[00:18:21] [User Authenticator #3/INFO]: UUID of player MrsLemonDrop is 61ad6271-6208-436c-a282-108d9a8f287f
+[00:18:22] [Server thread/INFO]: MrsLemonDrop[/141.209.16.212:50936] logged in with entity id 843 at (-772.0742010379967, 77.0, -738.5121627246857)
+[00:18:22] [Server thread/INFO]: MrsLemonDrop joined the game
+[00:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
+[00:18:33] [Server thread/INFO]: [Topherade: Set MrsLemonDrop's game mode to Creative Mode]
+[00:18:43] [Server thread/INFO]: [Topherade: Made MrsLemonDrop a server operator]
+[00:18:45] [Server thread/INFO]: Topherade lost connection: Disconnected
+[00:18:45] [Server thread/INFO]: Topherade left the game
+[00:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18321ms or 366 ticks behind
+[00:19:07] [Server thread/INFO]: [MrsLemonDrop: Set the time to 1000]
+[00:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4165ms or 83 ticks behind
+[00:19:34] [Server thread/INFO]: MrsLemonDrop lost connection: Disconnected
+[00:19:34] [Server thread/INFO]: MrsLemonDrop left the game
+[00:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
+[04:00:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
 [04:00:01] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:00:01] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
 [04:00:01] [Server thread/INFO]: Stopping server
 [04:00:01] [Server thread/INFO]: Saving players
 [04:00:01] [Server thread/INFO]: Saving worlds
-[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
 [04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
 [04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:02] [Server thread/INFO]: Thread RCON Listener stopped
