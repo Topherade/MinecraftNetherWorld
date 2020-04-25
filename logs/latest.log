@@ -1,84 +1,16 @@
-[19:19:36] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[19:19:36] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[19:19:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[19:19:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:19:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:19:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:19:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:19:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:19:38] [Server thread/INFO]: Starting minecraft server version 20w17a
-[19:19:38] [Server thread/INFO]: Loading properties
-[19:19:38] [Server thread/INFO]: Default game type: SURVIVAL
-[19:19:38] [Server thread/INFO]: Generating keypair
-[19:19:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:19:39] [Server thread/INFO]: Using default channel type
-[19:19:39] [Server thread/INFO]: Preparing level "world"
-[19:19:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:19:45] [Server thread/INFO]: Loaded 6 recipes
-[19:19:48] [Server thread/INFO]: Loaded 908 advancements
-[19:22:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:47] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:48] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:48] [Server thread/INFO]: Preparing spawn area: 0%
-[19:22:48] [Server thread/INFO]: Time elapsed: 6860 ms
-[19:22:48] [Server thread/INFO]: Done (188.880s)! For help, type "help"
-[19:22:48] [Server thread/INFO]: Starting remote control listener
-[19:22:48] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[19:22:48] [Server thread/INFO]: Thread RCON Listener started
-[19:23:02] [User Authenticator #1/INFO]: UUID of player Cados_Barbados is 80d592dd-c3f0-4812-a4f3-89dc766a0bc5
-[19:23:03] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:soul_fire_torch removed now.
-[19:23:03] [Server thread/INFO]: Cados_Barbados[/47.41.164.217:55128] logged in with entity id 31 at (-617.6164170340533, 64.0, -462.5913208738771)
-[19:23:03] [Server thread/INFO]: Cados_Barbados joined the game
-[19:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3284ms or 65 ticks behind
-[19:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6717ms or 134 ticks behind
-[19:24:38] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.2604307258263816
-[19:24:38] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 0.6571493255290193
-[19:24:39] [Server thread/WARN]: Horse (vehicle of Cados_Barbados) moved wrongly! 1.0538684709497375
-[19:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
-[19:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32010ms or 640 ticks behind
-[19:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41387ms or 827 ticks behind
-[19:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30698ms or 613 ticks behind
-[19:28:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52668ms or 1053 ticks behind
-[19:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44134ms or 882 ticks behind
-[19:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36967ms or 739 ticks behind
-[19:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4710ms or 94 ticks behind
-[19:30:40] [Server thread/INFO]: Villager bck[''/1035, l='world', x=-93.83, y=27.10, z=-66.56] died, message: 'Villager tried to swim in lava'
-[19:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
-[19:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
-[19:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9135ms or 182 ticks behind
-[19:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5347ms or 106 ticks behind
-[19:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
-[19:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
-[19:32:51] [Server thread/WARN]: Cados_Barbados moved too quickly! -6.766251129922665,6.166109260938214,4.409636198759561
-[19:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19749ms or 394 ticks behind
-[19:33:03] [Server thread/INFO]: Cados_Barbados lost connection: Disconnected
-[19:33:03] [Server thread/INFO]: Cados_Barbados left the game
-[19:33:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[19:33:28] [Server thread/INFO]: [Rcon: Stopping the server]
-[19:33:28] [Server thread/INFO]: Stopping server
-[19:33:28] [Server thread/INFO]: Saving players
-[19:33:28] [Server thread/INFO]: Saving worlds
-[19:33:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:33:28] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[19:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:33:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:33:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:33:28] [Server thread/INFO]: Thread RCON Listener stopped
+[04:00:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:00:02] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:00:02] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[04:00:02] [Server thread/INFO]: Stopping server
+[04:00:02] [Server thread/INFO]: Saving players
+[04:00:02] [Server thread/INFO]: Saving worlds
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:02] [Server thread/INFO]: Thread RCON Listener stopped
