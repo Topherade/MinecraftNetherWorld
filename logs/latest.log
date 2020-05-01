@@ -1,16 +1,16 @@
-[04:00:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:00:02] [Server thread/INFO]: [Rcon: Stopping the server]
-[04:00:02] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[04:00:02] [Server thread/INFO]: Stopping server
-[04:00:02] [Server thread/INFO]: Saving players
-[04:00:02] [Server thread/INFO]: Saving worlds
-[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:02] [Server thread/INFO]: Thread RCON Listener stopped
+[04:00:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:00:01] [Server thread/INFO]: [Rcon: Stopping the server]
+[04:00:01] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[04:00:01] [Server thread/INFO]: Stopping server
+[04:00:01] [Server thread/INFO]: Saving players
+[04:00:01] [Server thread/INFO]: Saving worlds
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Thread RCON Listener stopped
