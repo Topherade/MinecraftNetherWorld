@@ -5,12 +5,12 @@
 [04:00:01] [Server thread/INFO]: Saving players
 [04:00:01] [Server thread/INFO]: Saving worlds
 [04:00:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [04:00:02] [Server thread/INFO]: Thread RCON Listener stopped
