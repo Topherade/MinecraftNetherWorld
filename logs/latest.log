@@ -12,5 +12,5 @@
 [04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
 [04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:00:02] [Server thread/INFO]: Thread RCON Listener stopped
+[04:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:01] [Server thread/INFO]: Thread RCON Listener stopped
