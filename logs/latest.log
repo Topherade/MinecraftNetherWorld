@@ -1,7 +1,7 @@
-[04:00:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:00:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
 [04:00:02] [Server thread/INFO]: [Rcon: Stopping the server]
-[04:00:02] [Server thread/INFO]: Stopping server
 [04:00:02] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[04:00:02] [Server thread/INFO]: Stopping server
 [04:00:02] [Server thread/INFO]: Saving players
 [04:00:02] [Server thread/INFO]: Saving worlds
 [04:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
